@@ -1,70 +1,77 @@
-<!-- EPIC ANIMATED HEADER -->
+<!-- LUXURY ANIMATED HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Prabor+Kar;Full+Stack+Developer;React+Native+Engineer;Real-Time+Systems+Builder;Crafting+Digital+Experiences+with+Purpose" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=2600&pause=800&color=E0C68B&center=true&vCenter=true&width=900&lines=Prabor+Kar;Building+Systems+that+Feel+Effortless;Engineering+Experiences+that+Matter;Code+Meets+Design.+Speed+Meets+Elegance." />
 </p>
 
 ---
 
-# 🌌 **About Me**
-
-I build things that feel alive —  
-applications that react instantly, interfaces that breathe,  
-and systems that move as fast as ideas do.
-
-I’m obsessed with **real-time experiences**,  
-**clean architecture**,  
-and crafting products that are not just functional…  
-but *felt*.
-
-Whether it's a chat app updating in milliseconds,  
-a dashboard that tells stories through data,  
-or a mobile app that flows as smoothly as thought —  
-I love shaping technology into something human.
-
-I believe in:
-
-✨ *Code that speaks clearly*  
-✨ *Design that feels intentional*  
-✨ *Performance that disappears into the background*  
-✨ *Experiences that stay with people*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/ChungZH/9e1437bdc7d9f4e2e169dbd7228e12cd/raw/portfolio-divider.svg" width="60%">
+</div>
 
 ---
 
-# ⚡ **What I Build**
-- Real-time applications (WebSockets, Socket.IO)  
-- Modern full-stack systems (React + Node.js + MongoDB)  
-- Clean, fluid mobile apps (React Native)  
-- Dashboards, analytics tools, PDF intelligence, automation workflows  
-- Elegant and fast user interfaces  
+# 🌙 **About Me — The Founder’s Cut**
+
+I believe great software doesn’t just *work* —  
+it **feels** a certain way.
+
+It should respond instantly, move gracefully,  
+and communicate clarity without saying a word.
+
+I’m fascinated by the space where  
+**engineering, design, and emotion intersect.**  
+Where real-time systems create presence,  
+where dashboards reveal stories,  
+and where interfaces feel soft, fluid, and alive.
+
+To me, code is not just instructions for machines —  
+it's a medium for crafting experiences.  
+A way to create “that moment” when everything just works,  
+quietly, beautifully, and unmistakably *right*.
+
+So I build:
+
+✨ Applications that breathe  
+✨ Interfaces that guide without noise  
+✨ Backends that feel invisible yet powerful  
+✨ Products that reflect intention and purpose  
+
+My mission is simple:
+
+> **Create technology that feels less like a tool and more like an extension of thought.**
 
 ---
 
-# 🛠 **Tech Arsenal**
-
-### **Frontend**
-React • React Native • Expo • TailwindCSS • JavaScript (ES6+) • Framer Motion  
-HTML5 • CSS3
-
-### **Backend**
-Node.js • Express.js • REST APIs  
-Authentication • JWT • WebSockets • Socket.IO
-
-### **Database**
-MongoDB • Firebase • PostgreSQL (learning)
-
-### **Tools & Platforms**
-Git • GitHub • Postman • Vercel • Netlify • Render • Figma • VS Code  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/ChungZH/9e1437bdc7d9f4e2e169dbd7228e12cd/raw/portfolio-divider.svg" width="60%">
+</div>
 
 ---
 
-# 🚀 **Featured Creations**
+# 🏛️ **What I Specialize In**
 
-## ✨ **1. DeeRef – Real-Time Chat Platform**
-A Discord-inspired chat system with presence, typing indicators, instant sync & real-time architecture.
+### **⚡ Real-Time Digital Experiences**  
+Instant communication, Socket.IO systems, presence engines, and live-sync apps.
+
+### **🖥️ Full-Stack Architecture (MERN)**  
+Clean, scalable, production-ready backends & modern frontend experiences.
+
+### **📱 Mobile Craftsmanship (React Native)**  
+Smooth, intuitive, startup-grade mobile UI/UX.
+
+### **📊 Intelligent Dashboard Systems**  
+Data transformed into clarity — AI-driven analytics, financial dashboards, admin systems.
+
+### **🧠 Document Intelligence & Performance Engineering**  
+Optimized PDF parsing, extraction pipelines, and lightweight offline scripts.
+
+---
+
+# 🔥 **Flagship Projects** *(Startups would proudly showcase these)*
+
+## 🟩 **DeeRef — Real-Time Communication Engine**
+A modern, Discord-grade messaging platform with presence, typing states, and fluid UX.
 
 🔗 GitHub: https://github.com/Praborkar/DeeRef-Chatapp  
 🌐 Frontend: https://deeref-chatapp.netlify.app  
@@ -72,94 +79,102 @@ A Discord-inspired chat system with presence, typing indicators, instant sync & 
 
 ---
 
-## ✨ **2. PrimeTrade.ai Dashboard**
-A clean and data-centric analytics dashboard for modern financial insights.
+## 🟦 **PrimeTrade.ai Dashboard**
+A luxury-grade financial dashboard with sleek UI, analytics, and modular architecture.
 
 🔗 https://github.com/Praborkar/Primetrade.ai-Dashboard
 
 ---
 
-## ✨ **3. Arogvo – Healthcare Experience**
-A modern, immersive healthcare landing design with animation & UX focus.
+## 🟪 **Arogvo — Healthcare, Reimagined**
+A soothing, modern healthcare interface designed for trust, simplicity, and clarity.
 
 🔗 https://github.com/Praborkar/Arogvo
 
 ---
 
-## ✨ **4. Simplify Money – Budgeting UI**
-A fast and interactive finance UI made with React + Tailwind.
+## 🟨 **Simplify Money — Personal Finance UI**
+A minimal, elegant budgeting interface crafted with precision.
 
 🔗 https://github.com/Praborkar/simplify-money-FE-task
 
 ---
 
-## ✨ **5. Personal Web Portfolio**
-A clean, minimal portfolio site highlighting work & UI skills.
+## 🟫 **Personal Portfolio Website**
+A clean, minimalistic portfolio that reflects design-first thinking.
 
 🔗 https://github.com/Praborkar/webportfolio
 
 ---
 
-## ✨ **6. AI-Powered Analytics Dashboard**
-Interactive analytics dashboard driven by AI modules.
+## 🟥 **AI-Powered Analytics Dashboard**
+Interactive dashboards built for speed, clarity, and intelligence.
 
 🔗 https://github.com/Praborkar/AI-Powered-Analytics-Dashboard
 
 ---
 
-# 🏆 **Hackathon Engineering**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/ChungZH/9e1437bdc7d9f4e2e169dbd7228e12cd/raw/portfolio-divider.svg" width="60%">
+</div>
 
-## 🚀 Adobe Challenge: Persona-Driven Document Intelligence (Round 1B)
-PDF extraction • AI workflows • offline processing  
+---
+
+# 🏆 **Hackathons & R&D Work**
+
+### **Adobe Round 1B – Persona-Driven Document Intelligence**  
+Cutting-edge PDF intelligence, offline systems, schema generation  
 🔗 https://github.com/Praborkar/Round-1B-Persona-Driven-Document-Intelligence
 
-## 🚀 Adobe Challenge: Understand Your Document (Round 1A)
-Extreme-speed PDF heading extraction (≤ 10s for 50 pages)  
+### **Adobe Round 1A – Understand Your Document**  
+10-second heading extraction across 50-page PDFs  
 🔗 https://github.com/Praborkar/Round-1A-Understand-Your-Document
 
-## 🇮🇳 Smart India Hackathon – SIH
-National-level engineering contributions & problem-solving  
+### **Smart India Hackathon (SIH)**  
+Problem-solving at a national scale  
 🔗 https://github.com/Praborkar/SIH
 
 ---
 
-# 📊 **GitHub Universe**
+# 📊 **GitHub Insights**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praborkar&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praborkar&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praborkar&show_icons=true&theme=calm&hide_border=true&icon_color=E0C68B&title_color=D5B67E" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praborkar&layout=compact&theme=calm&hide_border=true&title_color=D5B67E" height="170" />
 </p>
 
 ---
 
-# 🐍 **Contribution Snake**
+# 🐍 **Contribution Snake — Gold Edition**
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 🌐 **Activity Graph**
+# 📈 **Activity Graph**
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praborkar&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praborkar&theme=github-compact&hide_border=true&color=E0C68B" />
 </p>
 
 ---
 
-# 🤝 **Connect with Me**
+# 🤝 **Connect With Me**
 
 <p align="center">
-  <a href="mailto:prabork@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/prabor-kar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Praborkar"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:prabork@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=D5B67E&labelColor=0A0A0A"></a>
+  <a href="https://www.linkedin.com/in/prabor-kar/"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=E0C68B&labelColor=0A0A0A"></a>
+  <a href="https://github.com/Praborkar"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=E0C68B&labelColor=0A0A0A"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“I build experiences — not just applications.”</i>  
+  <i>“Great software is not built — it is sculpted.”</i>
 </p>
 
 <p align="center">
-  ⭐ If you enjoyed this portfolio, consider giving a star to my repositories!
+  ⭐ If this README feels like a brand, you know where to find me.
 </p>
