@@ -1,134 +1,121 @@
-<!-- ULTRA HERO -->
-<h1 align="center" style="font-weight:900; font-size:42px;">
-  Prabor Kar
+<!-- HERO -->
+<h1 align="center" style="font-weight:900; font-size:40px;">
+  🚀 Prabor Kar — Building the Future, One Line of Code at a Time
 </h1>
 
-<p align="center" style="font-size:17px;">
-  Full-Stack Developer • Mobile Developer • Real-Time Systems Engineer
-</p>
+<p align="center"><strong>
+Full-Stack Developer • Mobile App Developer • Real-Time Systems Engineer
+</strong></p>
 
 <div align="center">
-  <div style="height:3px; width:60%; background:linear-gradient(90deg,#B08CFF,#7B5BFF,#B08CFF); margin:18px 0;"></div>
+  <div style="height:2px; width:60%; background:linear-gradient(90deg,#C3A6FF,#8163DB,#C3A6FF); margin-top:15px;"></div>
 </div>
 
 ---
 
-# About Me  
-I build software that feels **fast**, **intentional**, and **beautifully engineered**.
+# 🌌 **Crafting Experiences, Not Just Applications**
 
-I specialize in creating experiences that are:
+I create software that feels **alive**, **intentional**, and **human-centered**.  
+I focus on **clarity, speed, and design-quality engineering**:
 
-- responsive in milliseconds  
-- clean and structured  
-- human-centered  
-- modern and fluid  
-- real-time by design  
+- ⚡ Real-time experiences  
+- 🎨 Thoughtful UI/UX  
+- 🧠 Scalable system design  
+- 🚀 Fast, interactive interfaces  
 
-My goal is simple:  
-**Turn complex ideas into smooth, intuitive digital experiences.**
-
----
-
-<div align="center">
-  <div style="height:3px; width:60%; background:linear-gradient(90deg,#B08CFF,#7B5BFF,#B08CFF);"></div>
-</div>
+My philosophy:  
+**“Make it simple. Make it elegant. Make it unforgettable.”**
 
 ---
 
-# Skills  
+# 🧠 **Engineering Superpowers**
+
+### ⚡ Real-Time Systems  
+WebSockets • Socket.IO • Event-driven flows  
+
+### 🎨 Modern Frontend  
+React • Tailwind • Component architecture  
+
+### 📱 Mobile Apps  
+React Native • Smooth transitions • App UX  
+
+### ⚙ Backend Engineering  
+Node • Express • JWT • Scalable APIs  
+
+### 📊 Dashboards & AI Systems  
+Analytics • AI insights • Clean data experiences  
+
+---
+
+# 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,express,mongodb,firebase,tailwind,git,postman,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,express,mongodb,firebase,tailwind,git,postman,figma&perline=7" />
 </p>
 
 ---
 
-# Projects  
+# 🏆 Hackathons & Innovation
 
-### DeeRef – Real-Time Chat App  
-Discord-style chat with presence, typing states, and instant messaging.  
-🔗 https://github.com/Praborkar/DeeRef-Chatapp  
+### 🧠 Adobe Round 1B — Persona Document Intelligence  
+https://github.com/Praborkar/Round-1B-Persona-Driven-Document-Intelligence  
 
----
+### 📄 Adobe Round 1A — Understand Your Document  
+https://github.com/Praborkar/Round-1A-Understand-Your-Document  
 
-### PrimeTrade.ai – Analytics Dashboard  
-Financial dashboard with clean UI, charts & insights.  
-🔗 https://github.com/Praborkar/Primetrade.ai-Dashboard  
-
----
-
-### Arogvo – Healthcare Interface  
-Soft, modern, minimal healthcare landing page.  
-🔗 https://github.com/Praborkar/Arogvo  
+### 🇮🇳 Smart India Hackathon  
+https://github.com/Praborkar/SIH  
 
 ---
 
-### Simplify Money – Finance UI  
-Simple budgeting interface built with React + Tailwind.  
-🔗 https://github.com/Praborkar/simplify-money-FE-task  
+# 📈 **GitHub Performance (Working Stats)**  
 
----
-
-### Portfolio Website  
-A clean, modern personal portfolio.  
-🔗 https://github.com/Praborkar/webportfolio  
-
----
-
-### AI Analytics Dashboard  
-Data visualization dashboard powered by AI modules.  
-🔗 https://github.com/Praborkar/AI-Powered-Analytics-Dashboard  
-
----
-
-<div align="center">
-  <div style="height:3px; width:60%; background:linear-gradient(90deg,#B08CFF,#7B5BFF,#B08CFF);"></div>
-</div>
-
----
-
-# Hackathons  
-
-**Adobe Round 1B — Persona Driven Intelligence**  
-🔗 https://github.com/Praborkar/Round-1B-Persona-Driven-Document-Intelligence  
-
-**Adobe Round 1A — Understand Your Document**  
-🔗 https://github.com/Praborkar/Round-1A-Understand-Your-Document  
-
-**Smart India Hackathon (SIH)**  
-🔗 https://github.com/Praborkar/SIH  
-
----
-
-# Stats  
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Praborkar&show_icons=true&hide_border=true&title_color=B08CFF&icon_color=B08CFF&text_color=ffffff&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Praborkar&layout=compact&hide_border=true&title_color=B08CFF&text_color=ffffff&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praborkar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praborkar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praborkar&theme=tokyonight" />
 </p>
 
 ---
 
-# Contributions  
+# 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# Contact  
+# 📌 **Featured Work (Pinned Projects)**  
+### 👉 *Explore my top projects directly from my GitHub profile:*  
+🔗 https://github.com/Praborkar?tab=repositories&type=source  
+
+Your pinned repos include:
+
+- DeeRef Chat App  
+- PrimeTrade.ai Dashboard  
+- Arogvo Healthcare UI  
+- Simplify Money  
+- AI Analytics Dashboard  
+- Portfolio Website  
+
+> *Pinned projects always stay updated — no need to rewrite your README.*
+
+---
+
+# 🤝 Connect  
 <p align="center">
   <a href="mailto:prabork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=B08CFF">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=C3A6FF">
   </a>
   <a href="https://www.linkedin.com/in/prabor-kar/">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=B08CFF">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C3A6FF">
   </a>
   <a href="https://github.com/Praborkar">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=B08CFF">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=C3A6FF">
   </a>
 </p>
 
 ---
 
-<p align="center" style="font-size:15px; color:#B08CFF;">
-  Engineering modern experiences with speed, intention, and clarity.
+<p align="center" style="font-size:15px; color:#C3A6FF;">
+  Clean engineering. Real-time experiences. Building things that just feel right.
 </p>
