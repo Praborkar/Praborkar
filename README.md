@@ -1,117 +1,122 @@
-<!-- AESTHETIC HERO -->
+<!-- HERO TITLE — Soft Lavender Portfolio Aesthetic -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=800&color=C3A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prabor+Kar.;Full+Stack+%26+Mobile+Developer;Crafting+Calm%2C+Modern%2C+Human-Centered+Technology." />
+  <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=600&size=32&pause=800&color=C3A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prabor+Kar.;Full+Stack+Developer+%26+App+Engineer;Crafting+Soft%2C+Beautiful%2C+Human-Centered+Experiences." />
 </p>
 
-<!-- Soft Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="60%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloud.png" width="65%" />
 </p>
 
 ---
 
 # 🌿 **About Me**
 
-I love building things that feel **calm, intuitive, and meaningful**.
+I build **calm, purposeful digital experiences** — products that feel smooth, intuitive, and quietly powerful.
 
-My work lives at the intersection of  
-**clean design, real-time engineering, and modern web/mobile experiences.**
+My work blends:
+
+✨ modern design  
+✨ real-time engineering  
+✨ thoughtful architecture  
+✨ and a love for clean, aesthetic interfaces  
 
 I enjoy creating:
 
-- Interfaces that feel soft and inviting  
+- Interfaces that guide gently, not loudly  
 - Systems that respond instantly  
-- Products that look simple but work powerfully underneath  
+- UIs that feel soft, intentional, and beautifully minimal  
 
-I care about **clarity, smoothness, and intention** —  
-whether I'm building a chat app, a dashboard, or a mobile experience.
+I care about **clarity, flow, and the emotion behind every interaction**.  
+Whether it's a chat engine, a dashboard, or a mobile experience —  
+my goal is always the same:
+
+> **Make technology feel human.**  
 
 ---
 
-<!-- Soft Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="60%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloud.png" width="65%" />
 </p>
 
 ---
 
-# 🎨 **Tech I Work With**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,js,ts,nodejs,express,mongodb,firebase,postman,git,figma&perline=6" />
-</p>
+# 🌸 **What I’m Good At**
+### *(soft, aesthetic skill grid)*
+
+| 🌿 Frontend | ⚡ Backend | 📱 Mobile | 🗄 Databases | 🎨 Tools |
+|------------|-----------|-----------|---------------|-----------|
+| React | Node.js | React Native | MongoDB | Git |
+| TailwindCSS | Express | Expo | Firebase | Postman |
+| JavaScript | REST APIs | Animations | PostgreSQL (learning) | Figma |
 
 ---
 
-# 🌸 **Featured Projects**
-
-## 🌱 **1. DeeRef – Real-Time Chat Platform**
-A smooth real-time chat experience with presence, typing indicators & instant sync.
-
-🔗 GitHub: https://github.com/Praborkar/DeeRef-Chatapp  
-🌐 Frontend: https://deeref-chatapp.netlify.app  
-🖥 Backend: https://deeref-chatapp.onrender.com  
+# 🎨 **Featured Projects**  
+*(aesthetic project cards)*
 
 ---
 
-## 🍃 **2. PrimeTrade.ai Dashboard**
-Modern, elegant financial analytics dashboard.
+## 🌱 **DeeRef — Real-Time Communication Platform**
+A beautifully crafted chat experience with presence, typing indicators, instant sync & channel flows.  
+**Tech:** React, Node.js, Express, MongoDB, Socket.IO  
+🔗 https://github.com/Praborkar/DeeRef-Chatapp
 
+---
+
+## 🍃 **PrimeTrade.ai — Financial Dashboard**
+Soft, elegant analytics UI for modern finance tracking.  
 🔗 https://github.com/Praborkar/Primetrade.ai-Dashboard
 
 ---
 
-## 🌼 **3. Arogvo — Healthcare UI**
-Minimal, soothing healthcare landing page experience.
-
+## 🌼 **Arogvo — Healthcare Landing Experience**
+A soothing interface built with care, clarity, and modern UX principles.  
 🔗 https://github.com/Praborkar/Arogvo
 
 ---
 
-## 🌾 **4. Simplify Money – Finance UI**
-A budgeting UI built with React + Tailwind.
-
+## 🌾 **Simplify Money — Finance UI**
+Simple, clean budgeting UI using React + Tailwind.  
 🔗 https://github.com/Praborkar/simplify-money-FE-task
 
 ---
 
-## 🌷 **5. Portfolio Website**
-A modern portfolio built to reflect design + dev clarity.
-
+## 🌷 **Portfolio Website**
+A minimal and aesthetic personal website showcasing clean design.  
 🔗 https://github.com/Praborkar/webportfolio
 
 ---
 
-## 💜 **6. AI Analytics Dashboard**
-AI-powered analytics + data visualization dashboard.
-
+## 💜 **AI-Powered Analytics Dashboard**
+Interactive dashboard powered by AI components and modular UI.  
 🔗 https://github.com/Praborkar/AI-Powered-Analytics-Dashboard
 
 ---
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="60%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloud.png" width="65%" />
 </p>
 
 ---
 
-# 🧩 **Hackathon & R&D Work**
+# 🧩 **Hackathon & Innovation Work**
 
-### **Adobe Round 1B – Persona-Driven Document Intelligence**  
+### **🚀 Adobe Round 1B — Persona-Based Document Intelligence**  
 🔗 https://github.com/Praborkar/Round-1B-Persona-Driven-Document-Intelligence  
 
-### **Adobe Round 1A – Understand Your Document**  
+### **🚀 Adobe Round 1A — Understand Your Document**  
 🔗 https://github.com/Praborkar/Round-1A-Understand-Your-Document  
 
-### **Smart India Hackathon (SIH)**  
+### **🇮🇳 Smart India Hackathon (SIH)**  
 🔗 https://github.com/Praborkar/SIH  
 
 ---
 
-# 📊 **GitHub Stats**
+# 📊 **GitHub Stats — Soft Lavender Edition**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praborkar&show_icons=true&theme=transparent&title_color=C3A6FF&icon_color=C3A6FF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praborkar&layout=compact&theme=transparent&title_color=C3A6FF" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Praborkar&show_icons=true&theme=transparent&title_color=C3A6FF&text_color=C3A6FF&icon_color=C3A6FF" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Praborkar&layout=compact&theme=transparent&title_color=C3A6FF&text_color=C3A6FF" height="170" />
 </p>
 
 ---
@@ -134,5 +139,5 @@ AI-powered analytics + data visualization dashboard.
 ---
 
 <p align="center">
-  <i>soft aesthetics • clean engineering • human-focused experiences</i>
+  <i>soft aesthetics • clean engineering • human-centered experiences</i>
 </p>
