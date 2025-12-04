@@ -3,11 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=800&color=C3A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prabor+Kar.;Full+Stack+%26+Mobile+Developer;Crafting+Calm%2C+Modern%2C+Human-Centered+Technology." />
 </p>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ChungZH/ChungZH/master/images/line-marquee.svg" width="60%">
-</div>
+<!-- Soft Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="60%" />
+</p>
 
 ---
 
@@ -29,9 +28,10 @@ whether I'm building a chat app, a dashboard, or a mobile experience.
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ChungZH/ChungZH/master/images/line-marquee.svg" width="60%">
-</div>
+<!-- Soft Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="60%" />
+</p>
 
 ---
 
@@ -44,15 +44,9 @@ whether I'm building a chat app, a dashboard, or a mobile experience.
 
 # 🌸 **Featured Projects**
 
-Here are some of the things I’ve built —  
-clean, modern, and crafted with intention.
-
----
-
 ## 🌱 **1. DeeRef – Real-Time Chat Platform**
-A smooth, Discord-styled real-time chat system with presence, typing indicators & instant message sync.
+A smooth real-time chat experience with presence, typing indicators & instant sync.
 
-**Tech:** React, Node.js, Express, MongoDB, Socket.IO  
 🔗 GitHub: https://github.com/Praborkar/DeeRef-Chatapp  
 🌐 Frontend: https://deeref-chatapp.netlify.app  
 🖥 Backend: https://deeref-chatapp.onrender.com  
@@ -60,41 +54,48 @@ A smooth, Discord-styled real-time chat system with presence, typing indicators 
 ---
 
 ## 🍃 **2. PrimeTrade.ai Dashboard**
-A clean financial dashboard with modern components & an elegant visual style.
+Modern, elegant financial analytics dashboard.
 
 🔗 https://github.com/Praborkar/Primetrade.ai-Dashboard
 
 ---
 
 ## 🌼 **3. Arogvo — Healthcare UI**
-A minimal, soothing healthcare landing page experience.
+Minimal, soothing healthcare landing page experience.
 
 🔗 https://github.com/Praborkar/Arogvo
 
 ---
 
 ## 🌾 **4. Simplify Money – Finance UI**
-A lightweight personal budgeting UI built with React + Tailwind.
+A budgeting UI built with React + Tailwind.
 
 🔗 https://github.com/Praborkar/simplify-money-FE-task
 
 ---
 
 ## 🌷 **5. Portfolio Website**
-A modern personal website showcasing my design + dev style.
+A modern portfolio built to reflect design + dev clarity.
 
 🔗 https://github.com/Praborkar/webportfolio
 
 ---
 
 ## 💜 **6. AI Analytics Dashboard**
-An AI-powered, responsive analytics experience.
+AI-powered analytics + data visualization dashboard.
 
 🔗 https://github.com/Praborkar/AI-Powered-Analytics-Dashboard
 
 ---
 
-# 🧩 **Hackathon + R&D Work**
+<!-- Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="60%" />
+</p>
+
+---
+
+# 🧩 **Hackathon & R&D Work**
 
 ### **Adobe Round 1B – Persona-Driven Document Intelligence**  
 🔗 https://github.com/Praborkar/Round-1B-Persona-Driven-Document-Intelligence  
@@ -104,12 +105,6 @@ An AI-powered, responsive analytics experience.
 
 ### **Smart India Hackathon (SIH)**  
 🔗 https://github.com/Praborkar/SIH  
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ChungZH/ChungZH/master/images/line-marquee.svg" width="60%">
-</div>
 
 ---
 
@@ -123,7 +118,7 @@ An AI-powered, responsive analytics experience.
 
 # 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
