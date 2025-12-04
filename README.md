@@ -13,7 +13,7 @@ Full-Stack Developer • Mobile App Developer • Engineer
 
 ---
 
-# 🌌 **Crafting Experiences, Not Just Applications**
+# 🌌 **Crafting experiences… and occasionally crafting bugs.**
 
 I create software that feels **alive**, **intentional**, and **human-centered**.  
 I focus on **clarity, speed, and design-quality engineering**:
