@@ -1,10 +1,10 @@
 <!-- HERO -->
 <h1 align="center" style="font-weight:900; font-size:40px;">
-  🚀 Prabor Kar — Building the Future, One Line of Code at a Time
+  🚀 Prabor Kar — I write code. Sometimes it even works.
 </h1>
 
 <p align="center"><strong>
-Full-Stack Developer • Mobile App Developer • Real-Time Systems Engineer
+Full-Stack Developer • Mobile App Developer • Engineer
 </strong></p>
 
 <div align="center">
