@@ -1,159 +1,148 @@
-<!-- HERO SECTION -->
-<h1 align="center" style="font-weight:800; font-size:40px;">
-  Hi, I'm <span style="color:#C3A6FF;">Prabor Kar</span>
-</h1>
-
-<p align="center" style="font-size:16px;">
-  Full-Stack Developer • Mobile App Developer • Real-Time Systems Engineer  
+<!-- ULTRA CINEMATIC HERO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2500&pause=700&color=BD9BFF&center=true&vCenter=true&width=1000&lines=Prabor+Kar;Full+Stack+Developer+%7C+Real-Time+Engineer;I+Build+Fast%2C+Beautiful%2C+Intentional+Experiences." />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.svg" width="52%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aura.png" width="60%" />
 </p>
 
 ---
 
-# 🧭 Mission  
-I build **modern, fast, clean digital experiences** — apps that feel effortless, respond instantly, and look intentional.
+<div align="center" style="font-size: 18px; max-width: 800px; line-height:1.6">
+I build software that feels alive —  
+experiences that move fast, respond instantly,  
+and blend clean engineering with deliberate design.
 
-My engineering values:
-
-- **Clarity** → clean UI, clean code, clean flow  
-- **Speed** → instant feedback, real-time sync  
-- **Design Thinking** → products shaped around humans  
-- **Depth** → systems that feel simple on the surface, powerful underneath  
-
-I’m not just shipping features —  
-I’m creating **experiences**.
-
----
-
-# 🧩 What I Do  
-### **Frontend Engineering**  
-Modern UIs, component systems, design-first architecture  
-React · Tailwind · Animations · UI Systems  
-
-### **Backend Engineering**  
-Fast APIs, auth systems, real-time communication  
-Node.js · Express · WebSockets · MongoDB  
-
-### **Mobile Development**  
-Cross-platform app development with polished UX  
-React Native · Expo  
-
-### **Real-Time Systems**  
-Presence engines, typing indicators, instant sync, live updates  
-Socket.IO · Event-driven patterns  
-
-### **Dashboard & Analytics Engineering**  
-AI-powered dashboards, clean data visualizations  
+If it’s real-time, interactive, smooth, or beautifully engineered,  
+I probably built it... or I want to.
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.svg" width="52%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" />
 </p>
 
 ---
 
-# 🛠 Tech Stack  
+# 🚀 **Core Specialties**
+
+<div align="center">
+
+### ⚡ Real-Time Systems  
+WebSockets • Socket.IO • Event-driven architectures  
+
+### 🎨 Interactive Frontends  
+React • Tailwind • Motion • UI/UX systems  
+
+### 📱 Mobile Engineering  
+React Native • Smooth UX flows • Cross-platform  
+
+### 🧠 Data & Dashboard Engineering  
+Analytics • Visualizations • AI-assisted systems  
+
+### ⚙ Scalable Backends  
+Node.js • Express • Modular service design  
+
+</div>
+
+---
+
+# 💎 **My Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,express,mongodb,firebase,tailwind,git,postman,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,express,mongodb,firebase,tailwind,git,postman,figma&theme=light&perline=7" />
 </p>
 
 ---
 
-# 🚀 Featured Projects  
-High-quality engineering work across real-time systems, dashboards, and mobile.
+# 🌈 **Signature Projects (Showcase)**
 
-### 🌱 **DeeRef — Real-Time Chat Platform**  
-A Discord-style real-time communication system.  
-Typing indicators · Presence engine · Channels · Live Sync  
+### 🟣 **DeeRef — Real-Time Chat Platform**
+A Discord-like communication engine with presence, typing states, live sync, and clean UI.  
 🔗 https://github.com/Praborkar/DeeRef-Chatapp  
 
 ---
 
-### 📊 **PrimeTrade.ai — Analytics Dashboard**  
-A clean financial dashboard built for clarity & performance.  
+### 🟦 **PrimeTrade.ai — High-Fidelity Dashboard**
+A premium analytics dashboard designed for clarity & performance.  
 🔗 https://github.com/Praborkar/Primetrade.ai-Dashboard  
 
 ---
 
-### 🩺 **Arogvo — Healthcare UI**  
-Soft, minimal, human-centered UI for healthcare experiences.  
+### 🟩 **Arogvo — Soft Healthcare UI**
+Minimalistic, modern, human-centered healthcare landing page.  
 🔗 https://github.com/Praborkar/Arogvo  
 
 ---
 
-### 💸 **Simplify Money — Budgeting Interface**  
-A clean money tracking UI for modern finance apps.  
+### 🟨 **Simplify Money — Budgeting UI**
+Lightweight finance UI with smooth components.  
 🔗 https://github.com/Praborkar/simplify-money-FE-task  
 
 ---
 
-### 🌐 **Personal Portfolio Site**  
-A modern, lightweight developer portfolio.  
+### 🎨 **Personal Portfolio Website**
+A modern interface showcasing design + dev synergy.  
 🔗 https://github.com/Praborkar/webportfolio  
 
 ---
 
-### 🤖 **AI Analytics Dashboard**  
-AI-powered insights with modular, clean charting logic.  
+### 🔮 **AI Analytics Dashboard**
+AI-powered insights with modular layout systems.  
 🔗 https://github.com/Praborkar/AI-Powered-Analytics-Dashboard  
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.svg" width="52%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aura.png" width="60%" />
 </p>
 
 ---
 
-# 🏆 Hackathon & Innovation  
-### Adobe | Persona-Driven Document Intelligence (Round 1B)  
-PDF understanding · persona extraction · performant pipelines  
-🔗 https://github.com/Praborkar/Round-1B-Persona-Driven-Document-Intelligence  
+# 🏆 **Hackathons & Problem Solving**
 
-### Adobe | Understand Your Document (Round 1A)  
-Structured heading extraction within 10 seconds for 50-page PDFs  
-🔗 https://github.com/Praborkar/Round-1A-Understand-Your-Document  
+### 🔥 Adobe Round 1B — Persona Document Intelligence  
+https://github.com/Praborkar/Round-1B-Persona-Driven-Document-Intelligence  
 
-### Smart India Hackathon (SIH)  
-Contributing engineering solutions at a national scale  
-🔗 https://github.com/Praborkar/SIH  
+### 🔥 Adobe Round 1A — Understand Your Document  
+https://github.com/Praborkar/Round-1A-Understand-Your-Document  
+
+### 🇮🇳 Smart India Hackathon  
+https://github.com/Praborkar/SIH  
 
 ---
 
-# 📈 GitHub Performance  
+# 📊 **Cinematic GitHub Stats**
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Praborkar&show_icons=true&hide_border=true&title_color=C3A6FF&text_color=ffffff&icon_color=C3A6FF&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Praborkar&layout=compact&hide_border=true&title_color=C3A6FF&text_color=ffffff&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Praborkar&show_icons=true&hide_border=true&title_color=BD9BFF&icon_color=BD9BFF&text_color=ffffff&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Praborkar&layout=compact&hide_border=true&title_color=BD9BFF&text_color=ffffff&bg_color=00000000" />
 </p>
 
 ---
 
-# 🐍 Contribution Graph  
+# 🐍 **Contribution Animation**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🌐 Connect  
+# 🌐 **Connect With Me**
 <p align="center">
   <a href="mailto:prabork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=C3A6FF">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=BD9BFF">
   </a>
   <a href="https://www.linkedin.com/in/prabor-kar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C3A6FF">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=BD9BFF">
   </a>
   <a href="https://github.com/Praborkar">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=C3A6FF">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=BD9BFF">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i style="color:#C3A6FF;">Clean engineering. Modern experiences. Real-time speed.</i>
+  <i style="color:#BD9BFF;">Beautiful engineering. Real-time speed. A developer with a designer’s heart.</i>
 </p>
