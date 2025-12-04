@@ -1,159 +1,134 @@
-<!-- HERO -->
-<h1 align="center" style="font-weight:900; font-size:40px;">
-  🚀 Prabor Kar — Building the Future, One Line of Code at a Time
+<!-- ULTRA HERO -->
+<h1 align="center" style="font-weight:900; font-size:42px;">
+  Prabor Kar
 </h1>
 
-<p align="center">
-  <strong>Full-Stack Developer • Mobile App Developer • Real-Time Systems Engineer</strong>
+<p align="center" style="font-size:17px;">
+  Full-Stack Developer • Mobile Developer • Real-Time Systems Engineer
 </p>
 
 <div align="center">
-  <div style="height:2px; width:60%; background:linear-gradient(90deg,#C3A6FF,#8163DB,#C3A6FF); margin-top:15px;"></div>
+  <div style="height:3px; width:60%; background:linear-gradient(90deg,#B08CFF,#7B5BFF,#B08CFF); margin:18px 0;"></div>
 </div>
 
 ---
 
-# 🌌 **Crafting Experiences, Not Just Applications**
+# About Me  
+I build software that feels **fast**, **intentional**, and **beautifully engineered**.
 
-I create software that feels **alive**, **intentional**, and **human-centered**.  
-My focus is building digital experiences that are:
+I specialize in creating experiences that are:
 
-- ⚡ **Fast** (real-time, instant updates)  
-- 🎨 **Beautiful** (clean UI + smooth interaction)  
-- 🧠 **Thoughtfully engineered** (scalable, maintainable)  
-- 🌿 **Minimal but powerful**
+- responsive in milliseconds  
+- clean and structured  
+- human-centered  
+- modern and fluid  
+- real-time by design  
 
-Everything I build follows one principle:
-
-> **“Make it simple. Make it elegant. Make it unforgettable.”**
+My goal is simple:  
+**Turn complex ideas into smooth, intuitive digital experiences.**
 
 ---
 
 <div align="center">
-  <div style="height:2px; width:60%; background:linear-gradient(90deg,#C3A6FF,#8163DB,#C3A6FF);"></div>
+  <div style="height:3px; width:60%; background:linear-gradient(90deg,#B08CFF,#7B5BFF,#B08CFF);"></div>
 </div>
 
 ---
 
-# 🧠 **What I Do Best (My Engineering Superpowers)**
-
-### 🟣 **Real-Time Systems**  
-WebSockets • Socket.IO • Live presence engines • Instant sync
-
-### 🔵 **Modern Front-End Engineering**  
-React • Tailwind • Component architectures • UX-centered design
-
-### 🟢 **Mobile App Development**  
-React Native • Smooth animations • Clean mobile-first UI
-
-### 🟠 **Back-End Systems**  
-Node.js • Express • Auth • Scalable API design
-
-### 🟣 **Dashboards & Data Experiences**  
-Analytics, charts, dashboards, AI-powered insights
-
----
-
-# 🛠 **My Tech Stack**
+# Skills  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,express,mongodb,firebase,tailwind,git,postman,figma&perline=7" />
 </p>
 
 ---
 
-<div align="center">
-  <div style="height:2px; width:60%; background:linear-gradient(90deg,#C3A6FF,#8163DB,#C3A6FF);"></div>
-</div>
+# Projects  
 
----
-
-# 🌈 **Showcase — Projects I'm Proud Of**
-
-### 🔮 **DeeRef — Real-Time Chat Platform**
-A Discord-like messaging system with presence, typing indicators & instant sync.  
+### DeeRef – Real-Time Chat App  
+Discord-style chat with presence, typing states, and instant messaging.  
 🔗 https://github.com/Praborkar/DeeRef-Chatapp  
 
 ---
 
-### 📊 **PrimeTrade.ai — Analytics Dashboard**
-A sleek, modern financial dashboard with refined UI.  
+### PrimeTrade.ai – Analytics Dashboard  
+Financial dashboard with clean UI, charts & insights.  
 🔗 https://github.com/Praborkar/Primetrade.ai-Dashboard  
 
 ---
 
-### 🩺 **Arogvo — Healthcare UI**
-Clean, minimal healthcare landing page with smooth UX.  
+### Arogvo – Healthcare Interface  
+Soft, modern, minimal healthcare landing page.  
 🔗 https://github.com/Praborkar/Arogvo  
 
 ---
 
-### 💸 **Simplify Money — Finance App UI**
-Simple, fast finance/budgeting UI.  
+### Simplify Money – Finance UI  
+Simple budgeting interface built with React + Tailwind.  
 🔗 https://github.com/Praborkar/simplify-money-FE-task  
 
 ---
 
-### 🎨 **Portfolio Website**
-A clean personal portfolio with modern UI.  
+### Portfolio Website  
+A clean, modern personal portfolio.  
 🔗 https://github.com/Praborkar/webportfolio  
 
 ---
 
-### 🤖 **AI-Powered Analytics Dashboard**
-AI-enhanced visualization system.  
+### AI Analytics Dashboard  
+Data visualization dashboard powered by AI modules.  
 🔗 https://github.com/Praborkar/AI-Powered-Analytics-Dashboard  
 
 ---
 
 <div align="center">
-  <div style="height:2px; width:60%; background:linear-gradient(90deg,#C3A6FF,#8163DB,#C3A6FF);"></div>
+  <div style="height:3px; width:60%; background:linear-gradient(90deg,#B08CFF,#7B5BFF,#B08CFF);"></div>
 </div>
 
 ---
 
-# 🏆 **Hackathons, Challenges & Problem Solving**
+# Hackathons  
 
-### 🧠 Adobe Round 1B — Persona-Driven Document Intelligence  
+**Adobe Round 1B — Persona Driven Intelligence**  
 🔗 https://github.com/Praborkar/Round-1B-Persona-Driven-Document-Intelligence  
 
-### 📄 Adobe Round 1A — Understand Your Document  
+**Adobe Round 1A — Understand Your Document**  
 🔗 https://github.com/Praborkar/Round-1A-Understand-Your-Document  
 
-### 🇮🇳 Smart India Hackathon (SIH)  
+**Smart India Hackathon (SIH)**  
 🔗 https://github.com/Praborkar/SIH  
 
 ---
 
-# 📈 **My GitHub Journey**
+# Stats  
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Praborkar&show_icons=true&hide_border=true&title_color=C3A6FF&icon_color=C3A6FF&text_color=ffffff&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Praborkar&layout=compact&hide_border=true&title_color=C3A6FF&text_color=ffffff&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Praborkar&show_icons=true&hide_border=true&title_color=B08CFF&icon_color=B08CFF&text_color=ffffff&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Praborkar&layout=compact&hide_border=true&title_color=B08CFF&text_color=ffffff&bg_color=00000000" />
 </p>
 
 ---
 
-# 🐍 **Contribution Snake**
+# Contributions  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🤝 **Connect With Me**
+# Contact  
 <p align="center">
   <a href="mailto:prabork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=C3A6FF">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=B08CFF">
   </a>
   <a href="https://www.linkedin.com/in/prabor-kar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C3A6FF">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=B08CFF">
   </a>
   <a href="https://github.com/Praborkar">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=C3A6FF">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=B08CFF">
   </a>
 </p>
 
 ---
 
-<p align="center" style="font-size:15px; color:#C3A6FF;">
-  Crafting modern experiences. Engineering real-time speed. Designing technology that feels good to use.
+<p align="center" style="font-size:15px; color:#B08CFF;">
+  Engineering modern experiences with speed, intention, and clarity.
 </p>
