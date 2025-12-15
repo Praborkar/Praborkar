@@ -62,7 +62,7 @@ https://github.com/Praborkar/Round-1B-Persona-Driven-Document-Intelligence
 ### 📄 Adobe Round 1A — Understand Your Document  
 https://github.com/Praborkar/Round-1A-Understand-Your-Document  
 
-### 🇮🇳 Smart India Hackathon  
+### Smart India Hackathon  
 https://github.com/Praborkar/SIH  
 
 ---
