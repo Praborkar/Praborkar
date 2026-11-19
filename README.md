@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://webportfolio-nine-self.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=C3A6FF" alt="Portfolio"></a>
+  <a href="https://happy-fox.staticdomains.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=C3A6FF" alt="Portfolio"></a>
   <a href="mailto:prabork@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=C3A6FF" alt="Email"></a>
   <a href="https://www.linkedin.com/in/prabor-kar/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C3A6FF" alt="LinkedIn"></a>
 </p>
@@ -29,11 +29,11 @@ I build software that feels **alive, intentional and human-centered**, with a fo
 - 💼 Full-Stack Developer at **Futurebits** (remote)
 - 🎓 B.Tech in Information Technology, Noida Institute of Engineering & Technology
 - 🚀 Open to **full-time roles and freelance work**
-- 🤖 My [portfolio](https://webportfolio-nine-self.vercel.app) has an AI assistant named **Ron**. Ask him about my work, any time.
+- 🤖 My [portfolio](https://happy-fox.staticdomains.app/) has an AI assistant named **Ron**. Ask him about my work, any time.
 - 📫 Reach me at **prabork@gmail.com**
 
 <p align="center">
-  <a href="https://webportfolio-nine-self.vercel.app">
+  <a href="https://happy-fox.staticdomains.app/">
     <img src="./assets/ron.svg" alt="Ron, the AI assistant on my portfolio. Click to chat." width="720" />
   </a>
 </p>
@@ -62,7 +62,7 @@ I build software that feels **alive, intentional and human-centered**, with a fo
 | **Nella** | Beauty treatment tracker with skincare routines, reminders and spend insights. Flutter. | [Google Play](https://play.google.com/store/apps/details?id=com.mynella.nella) · [App Store](https://apps.apple.com/in/app/nella-beauty-intelligence/id6781161758) |
 | **mivadodara** | Teacher attendance app with OTP login and fingerprint check-in, synced to an admin dashboard. | [Google Play](https://play.google.com/store/apps/details?id=org.mivadodara.app) |
 | **Blame Game** | Offline party card game with 25+ question packs and in-app purchases. | [Google Play](https://play.google.com/store/apps/details?id=com.prabor.blamegame) |
-| **Portfolio** | This notebook-style site, built with React, TypeScript, Tailwind and Framer Motion. | [Live site](https://webportfolio-nine-self.vercel.app) · [Source](https://github.com/Praborkar/webportfolio) |
+| **Portfolio** | This notebook-style site, built with React, TypeScript, Tailwind and Framer Motion. | [Live site](https://happy-fox.staticdomains.app/) · [Source](https://github.com/Praborkar/webportfolio) |
 
 More on my [repositories page](https://github.com/Praborkar?tab=repositories&type=source).
 
