@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Prabor Kar 👋</h1>
+<p align="center">
+  <img src="./assets/header.svg" alt="Prabor Kar, Full-Stack and Mobile Developer" width="100%" />
+</p>
 
 <p align="center"><strong>I write code. Sometimes it even works.</strong></p>
 
@@ -14,6 +16,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal: whoami. Prabor Kar, full-stack and mobile developer, building apps at Futurebits, open to new work." width="720" />
+</p>
+
 ## About me
 
 I build software that feels **alive, intentional and human-centered**, with a focus on clarity, speed and good design. I ship Flutter and React Native apps to Google Play, and SaaS platforms with Next.js and PostgreSQL.
@@ -25,6 +31,12 @@ I build software that feels **alive, intentional and human-centered**, with a fo
 - 🚀 Open to **full-time roles and freelance work**
 - 🤖 My [portfolio](https://webportfolio-nine-self.vercel.app) has an AI assistant named **Ron**. Ask him about my work, any time.
 - 📫 Reach me at **prabork@gmail.com**
+
+<p align="center">
+  <a href="https://webportfolio-nine-self.vercel.app">
+    <img src="./assets/ron.svg" alt="Ron, the AI assistant on my portfolio. Click to chat." width="720" />
+  </a>
+</p>
 
 ## What I work on
 
@@ -66,15 +78,6 @@ More on my [repositories page](https://github.com/Praborkar?tab=repositories&typ
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praborkar&theme=tokyonight" alt="Profile details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praborkar&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praborkar&theme=tokyonight" alt="Most used languages" />
-</p>
-
-## Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Praborkar/Praborkar/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Praborkar/Praborkar/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ---

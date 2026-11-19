@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="320" viewBox="0 0 820 320" role="img" aria-label="Terminal: whoami. Prabor Kar, full-stack and mobile developer, building apps at Futurebits, open to new work.">
+  <style>
+    text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 17px; }
+    .prompt { fill: #C3A6FF; }
+    .cmd { fill: #ffffff; }
+    .out { fill: #b9f0d0; }
+    .out2 { fill: #f7e3a1; }
+    .out3 { fill: #9ec5ff; }
+    .bar { font-size: 13px; fill: #8f84b5; }
+
+    .cover { fill: #0f0c1a; transform-box: fill-box; transform-origin: 100% 50%; }
+    @keyframes type { from { transform: scaleX(1); } to { transform: scaleX(0); } }
+    .t1 { animation: type 0.5s steps(8, end) 0.6s forwards; }
+    .t2 { animation: type 1.9s steps(42, end) 1.4s forwards; }
+    .t3 { animation: type 0.6s steps(13, end) 3.6s forwards; }
+    .t4 { animation: type 2.1s steps(46, end) 4.4s forwards; }
+    .t5 { animation: type 0.55s steps(12, end) 6.8s forwards; }
+    .t6 { animation: type 2.5s steps(57, end) 7.6s forwards; }
+
+    @keyframes appear { to { opacity: 1; } }
+    .late { opacity: 0; animation: appear 0.01s linear 10.4s forwards; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="818" height="318" rx="14" fill="#0f0c1a" stroke="#2b2152" stroke-width="2"/>
+  <path d="M1 15 a14 14 0 0 1 14 -14 H805 a14 14 0 0 1 14 14 V37 H1 Z" fill="#171229"/>
+  <circle cx="26" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="48" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="70" cy="19" r="6" fill="#28c840"/>
+  <text class="bar" x="410" y="24" text-anchor="middle">prabor@portfolio: ~</text>
+
+  <!-- lines -->
+  <text x="30" y="82"><tspan class="prompt">$</tspan> <tspan class="cmd">whoami</tspan></text>
+  <text class="out" x="30" y="110">Prabor Kar — full-stack &amp; mobile developer</text>
+
+  <text x="30" y="150"><tspan class="prompt">$</tspan> <tspan class="cmd">cat now.txt</tspan></text>
+  <text class="out2" x="30" y="178">building apps at Futurebits · open to new work</text>
+
+  <text x="30" y="218"><tspan class="prompt">$</tspan> <tspan class="cmd">ls ./stack</tspan></text>
+  <text class="out3" x="30" y="246" xml:space="preserve">flutter  react-native  nextjs  nodejs  postgres  firebase</text>
+
+  <g class="late">
+    <text x="30" y="290"><tspan class="prompt">$</tspan></text>
+    <rect class="cursor" x="52" y="275" width="10" height="19" fill="#C3A6FF"/>
+  </g>
+
+  <!-- typewriter covers: each hides its line, then shrinks away to reveal the text -->
+  <rect class="cover t1" x="30" y="64"  width="100" height="26"/>
+  <rect class="cover t2" x="30" y="92"  width="470" height="26"/>
+  <rect class="cover t3" x="30" y="132" width="160" height="26"/>
+  <rect class="cover t4" x="30" y="160" width="510" height="26"/>
+  <rect class="cover t5" x="30" y="200" width="150" height="26"/>
+  <rect class="cover t6" x="30" y="228" width="620" height="26"/>
+</svg>

@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Prabor Kar, Full-Stack and Mobile Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0b14"/>
+      <stop offset="1" stop-color="#1f1440"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C3A6FF"/>
+      <stop offset="0.5" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#8163DB"/>
+    </linearGradient>
+    <linearGradient id="waveA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8163DB" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8163DB" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="waveB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C3A6FF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#C3A6FF" stop-opacity="0.02"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#C3A6FF" stroke-opacity="0.07"/>
+    </pattern>
+    <clipPath id="round"><rect width="900" height="260" rx="18"/></clipPath>
+  </defs>
+
+  <style>
+    text { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+
+    @keyframes drift { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(40px, -24px); } }
+    .orb1 { animation: drift 9s ease-in-out infinite; }
+    .orb2 { animation: drift 12s ease-in-out infinite reverse; }
+    .orb3 { animation: drift 15s ease-in-out infinite; }
+
+    @keyframes rise {
+      0%   { transform: translateY(0);      opacity: 0; }
+      15%  { opacity: 0.75; }
+      85%  { opacity: 0.75; }
+      100% { transform: translateY(-250px); opacity: 0; }
+    }
+    .glyph { font-size: 22px; fill: #C3A6FF; opacity: 0; animation: rise 9s linear infinite; }
+
+    @keyframes fadein { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+    .title { opacity: 0; animation: fadein 1s ease-out 0.2s forwards; }
+    .hello { opacity: 0; animation: fadein 1s ease-out 0s forwards; }
+
+    @keyframes draw { from { stroke-dashoffset: 320; } to { stroke-dashoffset: 0; } }
+    .underline { stroke-dasharray: 320; stroke-dashoffset: 320; animation: draw 1.2s ease-out 0.9s forwards; }
+
+    @keyframes role {
+      0%   { opacity: 0; transform: translateY(10px); }
+      4%   { opacity: 1; transform: translateY(0); }
+      30%  { opacity: 1; transform: translateY(0); }
+      34%  { opacity: 0; transform: translateY(-10px); }
+      100% { opacity: 0; transform: translateY(-10px); }
+    }
+    .role { opacity: 0; animation: role 12s ease-in-out infinite; }
+
+    @keyframes wave { to { transform: translateX(-450px); } }
+    .waveA { animation: wave 9s linear infinite; }
+    .waveB { animation: wave 14s linear infinite; }
+
+    @keyframes blink { 50% { opacity: 0; } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+  </style>
+
+  <g clip-path="url(#round)">
+    <rect width="900" height="260" fill="url(#bg)"/>
+    <rect width="900" height="260" fill="url(#grid)"/>
+
+    <!-- glowing orbs -->
+    <circle class="orb1" cx="150" cy="70" r="70" fill="#8163DB" opacity="0.45" filter="url(#blur)"/>
+    <circle class="orb2" cx="760" cy="60" r="80" fill="#C3A6FF" opacity="0.30" filter="url(#blur)"/>
+    <circle class="orb3" cx="470" cy="210" r="90" fill="#5b3fd1" opacity="0.35" filter="url(#blur)"/>
+
+    <!-- floating code glyphs -->
+    <g class="mono">
+      <text class="glyph" x="60"  y="250" style="animation-delay:0s">{ }</text>
+      <text class="glyph" x="180" y="250" style="animation-delay:2.2s">&lt;/&gt;</text>
+      <text class="glyph" x="330" y="250" style="animation-delay:4.5s">=&gt;</text>
+      <text class="glyph" x="560" y="250" style="animation-delay:1.2s">01</text>
+      <text class="glyph" x="690" y="250" style="animation-delay:3.4s">( )</text>
+      <text class="glyph" x="820" y="250" style="animation-delay:5.6s">[ ]</text>
+      <text class="glyph" x="450" y="250" style="animation-delay:6.8s">;</text>
+    </g>
+
+    <!-- text -->
+    <text class="hello mono" x="450" y="62" text-anchor="middle" font-size="15" fill="#C3A6FF" letter-spacing="3">&lt; hello, world /&gt;</text>
+    <text class="title" x="450" y="126" text-anchor="middle" font-size="68" font-weight="800" letter-spacing="8" fill="url(#title)">PRABOR KAR</text>
+    <line class="underline" x1="290" y1="146" x2="610" y2="146" stroke="#C3A6FF" stroke-width="3" stroke-linecap="round"/>
+
+    <g font-size="23" fill="#e4dbff" text-anchor="middle">
+      <text class="role" x="450" y="186" style="animation-delay:0s">Full-Stack Developer</text>
+      <text class="role" x="450" y="186" style="animation-delay:4s">Mobile App Developer</text>
+      <text class="role" x="450" y="186" style="animation-delay:8s">Flutter · React Native · Next.js</text>
+    </g>
+
+    <!-- waves -->
+    <g transform="translate(0 196)">
+      <path class="waveB" d="M0 34 Q112.5 4 225 34 T450 34 T675 34 T900 34 T1125 34 T1350 34 T1575 34 T1800 34 V80 H0 Z" fill="url(#waveB)"/>
+    </g>
+    <g transform="translate(0 214)">
+      <path class="waveA" d="M0 30 Q112.5 58 225 30 T450 30 T675 30 T900 30 T1125 30 T1350 30 T1575 30 T1800 30 V80 H0 Z" fill="url(#waveA)"/>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="898" height="258" rx="17" fill="none" stroke="#C3A6FF" stroke-opacity="0.25" stroke-width="2"/>
+</svg>
